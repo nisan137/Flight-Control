@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Flight_Control_Logic.props" />
+</Project>

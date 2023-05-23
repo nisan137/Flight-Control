@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Flight_Control_Logic
+build_property.RootNamespace = Flight_Control_Logic
+build_property.ProjectDir = /Users/nisanerez/Desktop/Programing/Studies/Sela_College/Sela_20_02_23/Last_Project/BLogic_C#/Flight_Control_Logic/Flight_Control_Logic/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/nisanerez/Desktop/Programing/Studies/Sela_College/Sela_20_02_23/Last_Project/BLogic_C#/Flight_Control_Logic/Flight_Control_Logic
+build_property._RazorSourceGeneratorDebug = 
