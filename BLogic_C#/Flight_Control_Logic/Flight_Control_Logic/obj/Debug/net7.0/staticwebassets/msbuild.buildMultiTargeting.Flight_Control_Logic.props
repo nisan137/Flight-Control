@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Flight_Control_Logic.props" />
-</Project>
